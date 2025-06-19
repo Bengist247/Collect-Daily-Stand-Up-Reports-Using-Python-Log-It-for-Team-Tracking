@@ -1,0 +1,34 @@
+✴️ Collect Daily Stand-Up Reports Using Python & Log It for Team Tracking
+
+Hi Fam,
+Today, I’m excited to share my hands-on Python script built to automate the daily stand-up status report process for team members in an organization.
+
+
+With the script, I was able to get:
+🔶 Users input
+✔️ Name
+✔️ Department
+✔️ Group
+✔️ Task for the day
+✔️ Current location
+
+🔶 Append it to a log file
+It appends the collected status, with timestamp, into a file named Status.txt, which can be used later for team tracking or accountability.
+
+🔶 Add date and time
+To track when the entry was made.
+
+🔶 Display it in a formatted output using f-strings. 
+It prints a readable, personalized status update for the user.
+
+
+
+In a hashtag#DevOps or remote team environment, this hashtag#PythonScript acts like a simple:
+🔶 Daily Stand-Up Bot
+🔶 Status Logger
+🔶 Work-from-Anywhere Tracker
+
+It’s ideal for small teams needing a lightweight way to document daily progress without complex tools.
+
+
+If you're a hashtag#DevOpsEngineer, hashtag#CloudEngineer, or just starting your hashtag#PythonAutomation journey, try this out or customize it for your team!
